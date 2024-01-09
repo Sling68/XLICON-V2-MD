@@ -7,17 +7,17 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['233533763772', 'Abraham Dwamena', true],
-  ['923184070915', '𝙎𝘼𝙇𝙈𝘼𝙉 𝘼𝙃𝙈𝘼𝘿 -(𝘼𝙝𝙢𝙢𝙞)', true], 
-  ['94789481495', '𝙼𝚉𝙽 𝙺𝙸𝙽𝙶 ⚡', true], 
-  ['918360234087', 'WHITE', true], 
+  ['254705491287', 'Abraham Dwamena', true],
+  ['254705491287', 'Sling beb -(Tristan)', true], 
+  ['254705491287', '𝙼𝚉𝙽 𝙺𝙸𝙽𝙶 ⚡', true], 
+  ['254705491287', 'WHITE', true], 
 ] //Number of owners
 
 //global.pairingNumber = "" //put your bot number here
 
-global.mods = ['233533763772','923184070915', '94789481495', '923184474176'] 
-global.prems = ['923184070915', '233533763772', '94789481495', '918360234087']
-global.allowed = ['923184070915', '233533763772', '94789481495', '918360234087']
+global.mods = ['233533763772','254705491287', '94789481495', '923184474176'] 
+global.prems = ['254705491287', '233533763772', '94789481495', '918360234087']
+global.allowed = ['254705491287', '233533763772', '94789481495', '918360234087']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -57,7 +57,7 @@ global.premium = 'true'
 global.packname = 'XLICON TEAM' 
 global.author = '@XLICON-V2' 
 global.menuvid = 'https://telegra.ph/file/325630f66abc968eda8e2.mp4'
-global.igfg = '▢✓ Follow My channel\nhttps://whatsapp.com/channel/0029VaE8GbCDzgTILE7OtC3e\n' 
+global.igfg = '▢✓ Follow My channel\n\n' 
 global.dygp = 'https://chat.whatsapp.com/BfH0KLkICn2BjmGFMRcGMW'
 global.fgsc = 'https://github.com/Guru322/GURU-BOT' 
 global.fgyt = 'https://youtube.com/@s4salmanyt'
@@ -82,3 +82,25 @@ watchFile(file, () => {
   console.log(chalk.redBright("Update 'config.js'"))
   import(`${file}?update=${Date.now()}`)
 })
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
