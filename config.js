@@ -7,7 +7,7 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['254705491287', 'Abraham Dwamena', true],
+  ['254713781875', 'big boss', true],
   ['254705491287', 'Sling beb -(Tristan)', true], 
   ['254705491287', '𝙼𝚉𝙽 𝙺𝙸𝙽𝙶 ⚡', true], 
   ['254705491287', 'WHITE', true], 
@@ -52,9 +52,9 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'XLICON-V2'
+global.botname = 'beb-V2'
 global.premium = 'true'
-global.packname = 'XLICON TEAM' 
+global.packname = 'sling beb TEAM' 
 global.author = '@XLICON-V2' 
 global.menuvid = 'https://telegra.ph/file/325630f66abc968eda8e2.mp4'
 global.igfg = '▢✓ Follow My channel\n\n' 
@@ -82,6 +82,11 @@ watchFile(file, () => {
   console.log(chalk.redBright("Update 'config.js'"))
   import(`${file}?update=${Date.now()}`)
 })
+
+
+
+
+
 
 
 
